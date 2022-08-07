@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    font-size: 22px;
+
+}
+button {
+    text-align: center;
+    font-size: 18px;
+}
+.SearchText {
+    width: 371px;
+    height: 21px;
+}
+li {
+    list-style-type: none;
+    text-align: center;
+}
+.ust-kisim {
+    background-color: beige;
+}
+.sol {
+    margin-left: 350px;
+    background-color: #7EE5DA;
+    margin-top: 5px;
+    width: 239px;
+    height: 54px;
+    text-align: center;
+    padding: 40px;
+}
+.orta {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: #70CCC2;
+    width: 260px;
+    height: 76px;
+    padding: 29px ;
+}
+.alt-yazi {
+    text-align: center;
+    margin-top: 150px;
+    font-size: 18px;
+}
+.archive {
+    font-size: 15px;
+}
+.sag {
+    text-align: center;
+    font-size: 18px;
+    background-color: #62B3AA;
+    width: 300px;
+    height: 70px;
+    float: right;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 361px;
+    padding: 32px;
+}
+.subscribe {
+    font-size: 18px;
+}
